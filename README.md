@@ -2,5 +2,5 @@
 
 ## Data Science Tutorial
 
-We're excited you're here!
-
+I highly recommend the following Jupyter Notebooks for learning data science skills in Python:
+https://github.com/fonnesbeck/Bios8366/tree/master/notebooks
