@@ -23,5 +23,7 @@ exporter.fhir_dstu2.export = false
 exporter.hospital.fhir.export = false
 exporter.hospital.fhir_dstu2.export = false
 ```  
-to reduce file size with all the FHIR files we don't need for the workshop.  
+to reduce file size with all the FHIR files we don't need for the workshop.  On Alvin's computer, creating 1,000 patients takes about 3-6 minutes.  
+
+
 
