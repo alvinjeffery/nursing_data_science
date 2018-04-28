@@ -1,5 +1,7 @@
 # 2018 Nursing Knowledge: Big Data Science Pre-Conference
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/alvinjeffery/nursing_data_science/master)
+
 ## Data Science Tutorial
 
 I highly recommend the following Jupyter Notebooks for learning data science skills in Python:
