@@ -24,8 +24,9 @@ exporter.fhir.use_shr_extensions = false
 exporter.fhir_dstu2.export = false
 exporter.hospital.fhir.export = false
 exporter.hospital.fhir_dstu2.export = false
+generate.database_type = none
 ```  
-to reduce file size with all the FHIR files we don't need for the workshop.  On Alvin's computer, creating 1,000 patients takes about 3-6 minutes.  
+to reduce file size with all the FHIR files we don't need for the workshop.  On Alvin's computer, creating 10,000 patients takes about 5-6 minutes.  
 
 
 
